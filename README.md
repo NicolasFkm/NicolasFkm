@@ -8,10 +8,10 @@
 const fukuyama = {
     about: "I develop solutions, solve problems and I'm also good at googling",
     extensions: [".cs", ".js", ".ts", ".py"],
-    tech: ["React", "Redux", "NodeJS", "Docker"],
+    tech: ["react", "redux", "nodejs", "docker"],
     architecture: ["microservices", "domain driven design"],
-    methodologies: ["agile", "TDD"],
-    todo: ["functional programming", "K8s"]
+    methodologi: ["agile", "tdd"],
+    todo: ["functional programming", "k8s"]
 }
 ```
 
