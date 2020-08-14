@@ -6,7 +6,7 @@
 
 ```javascript
 const fukuyama = {
-    about: "I develop solutions, solve problems and I'm also good on googling",
+    about: "I develop solutions, solve problems and I'm also good at googling",
     extensions: [".cs", ".js", ".ts", ".py"],
     tech: ["React", "Redux", "NodeJS", "Docker"],
     architecture: ["microservices", "domain driven design"],
