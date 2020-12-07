@@ -10,7 +10,7 @@ const fukuyama = {
     extensions: [".cs", ".js", ".ts", ".py"],
     tech: ["react", "redux", "nodejs", "docker"],
     architecture: ["microservices", "domain driven design"],
-    methodologi: ["agile", "tdd"],
+    methodologies: ["agile", "tdd"],
     todo: ["functional programming", "k8s"]
 }
 ```
