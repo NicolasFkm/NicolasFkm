@@ -1,7 +1,7 @@
 <h2> Hi, I'm Nicolas Fukuyama!</h2>
 <img align='right' src="https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif" width="220">
 <p>Graduated Software Developer at <a href="https://www.ifsp.edu.br/">Education, Science and Technology Institute of São Paulo</a></p>
-<p>.NET Software Developer at <a href="https://www.rdisoftware.com/">RDI Software <img src="https://www.rdisoftware.com/img/logo.png" width="30"> </a>
+<p>JS/TS Software Developer at <a href="https://idwall.co/">Idwall <img src="https://idwall.co/img/logo.svg" width="30"> </a>
 </em></p><br>
 
 ```javascript
