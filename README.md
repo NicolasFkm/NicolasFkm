@@ -7,11 +7,12 @@
 ```javascript
 const fukuyama = {
     about: "I develop solutions, solve problems and I'm also good at googling",
-    extensions: [".cs", ".js", ".ts", ".py"],
-    tech: ["react", "redux", "nodejs", "docker"],
+    extensions: [".js", ".ts", ".py"],
+    tech: ["nodejs", "react", "docker"],
+    protocols: ["rest", "web socket", "graphql"],
     architecture: ["microservices", "domain driven design"],
     methodologies: ["agile", "tdd"],
-    todo: ["functional programming", "k8s"]
+    todo: ["k8s", "aws"]
 }
 ```
 
