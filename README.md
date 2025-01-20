@@ -4,19 +4,5 @@
 <p>JS/TS Software Developer at <a href="https://www.kittl.com/">Kittl <img src="https://assets-global.website-files.com/5ffa4de03c5ff1202dcdba1b/62cd25db8aedf46e19dff54e_Kittl%20logo.jpg" width="30"> </a>
 </em></p><br>
 
-```javascript
-const fukuyama = {
-    about: "I develop solutions, solve problems and I'm also good at googling",
-    extensions: [".js", ".ts", ".py"],
-    tech: ["nodejs", "react", "docker"],
-    api: ["rest", "web socket", "graphql"],
-    architecture: ["microservices", "domain driven design"],
-    methodologies: ["agile", "tdd"],
-    todo: ["k8s", "aws"]
-}
-```
-
-<p>I like to meet new people, if you want any help (or just chat about tabletop RPG, movies, comics or any geek stuff) just get in touch with me!</p>
-
 [![Linkedin Badge](https://img.shields.io/badge/-nicolasfkm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasfukuyama/)](https://www.linkedin.com/in/nicolasfukuyama/)
 [![Instagram Badge](https://img.shields.io/badge/-nifukuyama-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nifukuyama/)](https://www.instagram.com/nifukuyama/)
